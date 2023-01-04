@@ -1,4 +1,12 @@
-site_name: My Docs
+# Project information
+site_name: Test for MkDocs
+site_url: https://enaccess.github.io/test-pages/
+site_description: >-
+  This is just a test
+
+# Repository
+repo_name: EnAccess/test-pages
+repo_url: https://github.com/EnAccess/test-pages
 
 theme:
   name: material
