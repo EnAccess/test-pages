@@ -10,3 +10,11 @@ repo_url: https://github.com/EnAccess/test-pages
 
 theme:
   name: material
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/EnAccess
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/enaccessfdn
