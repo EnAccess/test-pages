@@ -10,4 +10,4 @@ rules:
     required: only-when-needed
     allow-quoted-quotes: true
   truthy:
-    check-keys: false
+    check-keys: true
