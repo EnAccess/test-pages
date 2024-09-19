@@ -1,5 +1,6 @@
 extends: default
 
+# Test Comment
 rules:
   document-start: disable
   indentation:
